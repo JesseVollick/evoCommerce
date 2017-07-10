@@ -9,6 +9,7 @@ function load_in_head_beginning () {
 <!-- Script tag goes below here  -->
 <script type="text/javascript">
   console.log('beginning of head');
+
 </script>
 <!-- End sCript -->
 <?php
